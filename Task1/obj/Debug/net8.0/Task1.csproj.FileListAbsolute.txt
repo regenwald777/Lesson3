@@ -1,0 +1,14 @@
+/home/regenwald666/Desktop/Lesson3/Task1/bin/Debug/net8.0/Task1
+/home/regenwald666/Desktop/Lesson3/Task1/bin/Debug/net8.0/Task1.deps.json
+/home/regenwald666/Desktop/Lesson3/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/home/regenwald666/Desktop/Lesson3/Task1/bin/Debug/net8.0/Task1.dll
+/home/regenwald666/Desktop/Lesson3/Task1/bin/Debug/net8.0/Task1.pdb
+/home/regenwald666/Desktop/Lesson3/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/regenwald666/Desktop/Lesson3/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/home/regenwald666/Desktop/Lesson3/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/home/regenwald666/Desktop/Lesson3/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/home/regenwald666/Desktop/Lesson3/Task1/obj/Debug/net8.0/Task1.dll
+/home/regenwald666/Desktop/Lesson3/Task1/obj/Debug/net8.0/refint/Task1.dll
+/home/regenwald666/Desktop/Lesson3/Task1/obj/Debug/net8.0/Task1.pdb
+/home/regenwald666/Desktop/Lesson3/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/home/regenwald666/Desktop/Lesson3/Task1/obj/Debug/net8.0/ref/Task1.dll
